@@ -1,4 +1,4 @@
-# Violence Model Based on CNN --> LSTM
+# Violence Model Based on MobileNetV2 --> LSTM
 Training dataset : https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 
 ## Environment :
